@@ -1,1 +1,2 @@
-# smto-launcher-v2-releases
+# Leave.
+Pretend this repo doesn't exist.
