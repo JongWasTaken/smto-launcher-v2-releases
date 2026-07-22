@@ -1,0 +1,1 @@
+# smto-launcher-v2-releases
